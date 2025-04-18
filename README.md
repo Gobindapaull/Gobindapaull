@@ -17,11 +17,6 @@
 ## 💻 Programming Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gobindapaull&layout=compact&theme=radical)
 
-## 📊 Recent Activity
-![Your Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Gobindapaull&theme=github)
-
-## 📅 Coding Time (WakaTime)
-[![wakatime](https://wakatime.com/badge/user/youruser-id.svg)](https://wakatime.com/@youruser-id)
 
 
 
