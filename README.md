@@ -11,9 +11,6 @@
 ## 🏆 GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gobindapaull)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Gobindapaull&theme=tokyonight)
-
 ## 💻 Programming Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gobindapaull&layout=compact&theme=radical)
 
